@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @Email redolfkendrick@gmail.com
 - 📫 linkedin.com/in/redolf120
+- Most of projects are in my private repositories, you can ask for me to grant you access
 
 <!---
 redolf250/redolf250 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
