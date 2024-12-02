@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redolf250
+- 👋 Hi, I’m Asamaning Redolf
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning java spring framework
 - 💞️ I’m looking to collaborate on projects
