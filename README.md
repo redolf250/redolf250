@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning java spring framework
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @Email redolfkendrick@gmail.com
-- 📫 linkedin.com/in/redolf120
-- Most of projects are in my private repositories, you can request for access.
+- 📫 linkedin.com/in/redolf250
 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
