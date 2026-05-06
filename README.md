@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Asamaning Redolf
 - 📫 Email redolfkendrick@gmail.com
-- 📫 linkedin.com/in/redolf250
+- 📫 https://linkedin.com/in/redolf250
+- Check out my current project here: [tradesphere.akomahmc.org](https://tradesphere.akomahmc.org)
   
 ![](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
